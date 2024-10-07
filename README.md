@@ -1,8 +1,5 @@
 # Building-a-Highly-Available-Scalable-Web-Application
 
-Dưới đây là phần chi tiết hơn về repository cho đề tài "Xây dựng một ứng dụng web khả dụng cao và có khả năng mở rộng":
-
----
 
 # Xây dựng Ứng Dụng Web Khả Dụng Cao và Có Khả Năng Mở Rộng
 
@@ -76,6 +73,4 @@ Dự án này triển khai một ứng dụng web trên nền tảng đám mây 
   
 - **Monitoring**: Sử dụng các công cụ giám sát như **CloudWatch** hoặc **Google Stackdriver** để theo dõi hiệu suất, phát hiện lỗi và tự động thông báo khi có sự cố.
 
----
 
-Với các nội dung này, bạn đã đáp ứng đủ yêu cầu của báo cáo giữa kỳ cho đề tài triển khai web-app trên nền tảng đám mây.
